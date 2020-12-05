@@ -1,0 +1,4 @@
+controle/IndexBean.class
+entidade/Pessoa.class
+util/JpaUtil.class
+entidade/Endereco.class
